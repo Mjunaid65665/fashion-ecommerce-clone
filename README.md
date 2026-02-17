@@ -99,15 +99,13 @@ Implement user authentication
 
 Download or clone the repository:
 
-git clone https://github.com/your-username/fashion-ecommerce-clone.git
+git clone https:(https://mjunaid65665.github.io/fashion-ecommerce-clone/)
 
 
 Open the project folder.
 
 Open index.html in your browser.
 
-🌐 Live Demo
-Add your live demo link here (GitHub Pages / Netlify / Vercel)
 
 👨‍💻 Author
 
@@ -117,5 +115,6 @@ Frontend Developer | UI/UX Enthusiast
 Email: pakjunaidahmad@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/muhammad-junaid-875ab1278
+
 
 
