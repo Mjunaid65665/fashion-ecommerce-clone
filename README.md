@@ -5,7 +5,7 @@ This project focuses on clean UI design, reusable product cards, and a responsiv
 
 #Live Demo link: 
 
-https://mjunaid65665.github.io/fashion-ecommerce-clone/
+https://mjunaid65665.github.io/fashion-ecommerce-clone
 
 
 📌 Project Overview
@@ -115,6 +115,7 @@ Frontend Developer | UI/UX Enthusiast
 Email: pakjunaidahmad@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/muhammad-junaid-875ab1278
+
 
 
 
