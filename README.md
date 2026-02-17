@@ -1,10 +1,13 @@
-🛍️ Fashion E-Commerce Website (Frontend Clone)
+🛍️## Fashion E-Commerce Website (Frontend Clone)
 
 A modern and responsive fashion e-commerce website clone built using HTML, CSS, and Bootstrap.
 This project focuses on clean UI design, reusable product cards, and a responsive layout suitable for real-world e-commerce platforms.
 
-##Live Demo link: 
+#Live Demo link: 
+
 https://mjunaid65665.github.io/fashion-ecommerce-clone/
+
+
 📌 Project Overview
 
 This project is a frontend clone of a fashion e-commerce website.
@@ -114,4 +117,5 @@ Frontend Developer | UI/UX Enthusiast
 Email: pakjunaidahmad@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/muhammad-junaid-875ab1278
+
 
